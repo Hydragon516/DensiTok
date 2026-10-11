@@ -44,7 +44,7 @@
     <img src="assets/video_thumbnail.jpg" width="80%" alt="Watch the 3-minute DensiTok overview video on the project page">
   </a>
   <br>
-  <em>Click to watch the 3-minute overview on the project page.</em>
+  <em>Click to watch the 3-minute overview.</em>
 </p>
 
 ## 🖼️ Results
