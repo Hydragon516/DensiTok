@@ -17,6 +17,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.07958-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2610.07958)
 [![Project Page](https://img.shields.io/badge/Project-Page-c0322b.svg)](https://hydragon.co.kr/DensiTok/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Model-ffd21e.svg?logo=huggingface&logoColor=white)](https://huggingface.co/hydrgon516/DensiTok)
 [![Video](https://img.shields.io/badge/Video-3_min-1f6feb.svg)](https://hydragon.co.kr/DensiTok/#video)
 ![Code](https://img.shields.io/badge/Code-Coming_Soon-8b949e.svg)
 
